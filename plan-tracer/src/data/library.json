@@ -1,0 +1,162 @@
+{
+  "elements": [
+    {
+      "id": "MUR_OSS_145",
+      "name": "Mur ossature bois 145mm",
+      "category": "mur",
+      "thickness": 0.145,
+      "color": "#2C3E50",
+      "metadata": {
+        "description": "Mur extérieur ossature bois 145mm",
+        "composition": "Bardage + OSB + Laine de bois + OSB",
+        "resistance": "R=3.8 m².K/W"
+      }
+    },
+    {
+      "id": "MUR_OSS_120",
+      "name": "Mur ossature bois 120mm",
+      "category": "mur",
+      "thickness": 0.120,
+      "color": "#34495E",
+      "metadata": {
+        "description": "Mur extérieur ossature bois 120mm",
+        "composition": "Bardage + OSB + Laine de bois + Placo",
+        "resistance": "R=3.2 m².K/W"
+      }
+    },
+    {
+      "id": "MUR_OSS_200",
+      "name": "Mur ossature bois 200mm",
+      "category": "mur",
+      "thickness": 0.200,
+      "color": "#1A252F",
+      "metadata": {
+        "description": "Mur extérieur renforcé ossature bois 200mm",
+        "composition": "Bardage + Double ossature + Laine de bois",
+        "resistance": "R=5.5 m².K/W"
+      }
+    },
+    {
+      "id": "CLOIS_BA13_72",
+      "name": "Cloison BA13 72mm",
+      "category": "cloison",
+      "thickness": 0.072,
+      "color": "#95A5A6",
+      "metadata": {
+        "description": "Cloison plaque de plâtre 72mm (48+2x12)",
+        "composition": "Placo BA13 + Rails 48mm + Placo BA13"
+      }
+    },
+    {
+      "id": "CLOIS_BA13_98",
+      "name": "Cloison BA13 98mm",
+      "category": "cloison",
+      "thickness": 0.098,
+      "color": "#7F8C8D",
+      "metadata": {
+        "description": "Cloison acoustique plaque de plâtre 98mm",
+        "composition": "Placo BA13 + Rails 70mm + Laine minérale + Placo BA13"
+      }
+    },
+    {
+      "id": "CLOIS_OSS_60",
+      "name": "Cloison ossature bois 60mm",
+      "category": "cloison",
+      "thickness": 0.060,
+      "color": "#BDC3C7",
+      "metadata": {
+        "description": "Cloison légère ossature bois",
+        "composition": "Placo + Ossature bois 36mm + Placo"
+      }
+    },
+    {
+      "id": "MEX_FENETRE_125x100",
+      "name": "Fenêtre 125x100",
+      "category": "mex",
+      "color": "#3498DB",
+      "metadata": {
+        "description": "Fenêtre standard 125x100cm",
+        "largeur": 1.25,
+        "hauteur": 1.00,
+        "type": "Fenêtre PVC double vitrage",
+        "uw": "1.3 W/m².K"
+      }
+    },
+    {
+      "id": "MEX_FENETRE_125x135",
+      "name": "Fenêtre 125x135",
+      "category": "mex",
+      "color": "#2980B9",
+      "metadata": {
+        "description": "Fenêtre haute 125x135cm",
+        "largeur": 1.25,
+        "hauteur": 1.35,
+        "type": "Fenêtre PVC double vitrage",
+        "uw": "1.3 W/m².K"
+      }
+    },
+    {
+      "id": "MEX_PORTE_FENETRE_215x140",
+      "name": "Porte-fenêtre 215x140",
+      "category": "mex",
+      "color": "#1F618D",
+      "metadata": {
+        "description": "Porte-fenêtre 2 vantaux",
+        "largeur": 2.15,
+        "hauteur": 1.40,
+        "type": "Porte-fenêtre PVC double vitrage",
+        "uw": "1.4 W/m².K"
+      }
+    },
+    {
+      "id": "MEX_PORTE_ENTREE_215x90",
+      "name": "Porte d'entrée 215x90",
+      "category": "mex",
+      "color": "#E74C3C",
+      "metadata": {
+        "description": "Porte d'entrée isolante",
+        "largeur": 2.15,
+        "hauteur": 0.90,
+        "type": "Porte pleine isolante",
+        "ud": "1.2 W/m².K"
+      }
+    },
+    {
+      "id": "MEX_PORTE_INT_204x73",
+      "name": "Porte intérieure 204x73",
+      "category": "mex",
+      "color": "#C0392B",
+      "metadata": {
+        "description": "Porte intérieure standard",
+        "largeur": 2.04,
+        "hauteur": 0.73,
+        "type": "Porte isoplane"
+      }
+    },
+    {
+      "id": "MEX_PORTE_INT_204x83",
+      "name": "Porte intérieure 204x83",
+      "category": "mex",
+      "color": "#A93226",
+      "metadata": {
+        "description": "Porte intérieure large",
+        "largeur": 2.04,
+        "hauteur": 0.83,
+        "type": "Porte isoplane"
+      }
+    },
+    {
+      "id": "MEX_BAIE_VITREE_215x240",
+      "name": "Baie vitrée 215x240",
+      "category": "mex",
+      "color": "#5DADE2",
+      "metadata": {
+        "description": "Baie vitrée coulissante",
+        "largeur": 2.15,
+        "hauteur": 2.40,
+        "type": "Baie coulissante alu double vitrage",
+        "uw": "1.5 W/m².K"
+      }
+    }
+  ]
+}
